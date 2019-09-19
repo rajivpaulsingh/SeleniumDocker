@@ -24,7 +24,7 @@ public class RegistrationConfirmationPage {
         PageFactory.initElements(driver, this);
     }
 
-    public void gotoFlightDetailsPage() {
+    public void goToFlightDetailsPage() {
         this.wait.until(ExpectedConditions.visibilityOf(flightsLink));
         this.flightsLink.click();
     }
