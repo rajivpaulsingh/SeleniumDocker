@@ -17,7 +17,7 @@ public class BookFlightTest {
 
     @BeforeTest
     @Parameters({"noOfPassangers", "expectedPrice"})
-    public void setDriver(String noOfPassangers, String expectedPrice) {
+    public void setUpDriver(String noOfPassangers, String expectedPrice) {
         this.noOfPassangers = noOfPassangers;
         this.expectedPrice = expectedPrice;
         //set path
