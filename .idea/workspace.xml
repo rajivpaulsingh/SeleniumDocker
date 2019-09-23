@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="092d6b83-73d8-48c7-aa2f-50387da89407" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/SeleniumDocker.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/newtours/pages/FindFlightPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/newtours/pages/FindFlightPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/newtours/pages/FlightConfirmationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/newtours/pages/FlightConfirmationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/newtours/pages/FlightDetailsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/newtours/pages/FlightDetailsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/newtours/pages/RegistrationConfirmationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/newtours/pages/RegistrationConfirmationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/newtours/pages/RegistrationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/newtours/pages/RegistrationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/searchmodule/pages/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/searchmodule/pages/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/SeleniumDocker.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/newtours/tests/BookFlightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/newtours/tests/BookFlightTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/searchmodule/tests/SearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/searchmodule/tests/SearchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tests/BaseTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -79,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
-              <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+            <state relative-caret-position="106">
+              <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -296,7 +305,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569270122446" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569270466096" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -615,8 +624,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+        <state relative-caret-position="106">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
         </state>
       </provider>
     </entry>
