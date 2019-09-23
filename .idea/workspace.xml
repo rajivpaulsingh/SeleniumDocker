@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="092d6b83-73d8-48c7-aa2f-50387da89407" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationConfirmationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationConfirmationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/newtours/pages/FindFlightPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/newtours/pages/FindFlightPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/newtours/pages/FlightConfirmationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/newtours/pages/FlightConfirmationPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/newtours/pages/RegistrationConfirmationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/newtours/pages/RegistrationConfirmationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,22 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/tests/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="39" column="68" lean-forward="true" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
+              <caret line="39" column="68" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
               <folding>
                 <element signature="e#1307#1308#0" expanded="true" />
                 <element signature="e#1341#1342#0" expanded="true" />
@@ -97,9 +77,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
+            <state relative-caret-position="255">
               <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -156,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/RegistrationPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java" />
@@ -171,6 +159,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/tests/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java" />
+        <option value="$PROJECT_DIR$/build-plugins.txt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -306,7 +296,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569265159435" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569270122446" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -329,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/singh2_rajiv/Selenium/SeleniumDocker/search-module.xml">
+  <component name="RunManager" selected="TestNG./Users/singh2_rajiv/Selenium/SeleniumDocker/book-flight-module.xml">
     <configuration name="BookFlightTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumDocker" />
       <extension name="coverage">
@@ -402,8 +392,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/singh2_rajiv/Selenium/SeleniumDocker/search-module.xml" />
         <item itemvalue="TestNG./Users/singh2_rajiv/Selenium/SeleniumDocker/book-flight-module.xml" />
+        <item itemvalue="TestNG./Users/singh2_rajiv/Selenium/SeleniumDocker/search-module.xml" />
         <item itemvalue="TestNG.BookFlightTest.registrationConfirmationPage" />
         <item itemvalue="TestNG.BookFlightTest" />
         <item itemvalue="TestNG.SearchTest (1)" />
@@ -424,15 +414,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_singh2_rajiv_Selenium_SeleniumDocker_book-flight-module_xml - 2019.09.20 at 12h 35m 14s.xml">
-      <configuration name="/Users/singh2_rajiv/Selenium/SeleniumDocker/book-flight-module.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_singh2_rajiv_Selenium_SeleniumDocker_book-flight-module_xml - 2019.09.20 at 12h 36m 38s.xml">
-      <configuration name="/Users/singh2_rajiv/Selenium/SeleniumDocker/book-flight-module.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_singh2_rajiv_Selenium_SeleniumDocker_search-module_xml - 2019.09.20 at 12h 38m 06s.xml">
-      <configuration name="/Users/singh2_rajiv/Selenium/SeleniumDocker/search-module.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_singh2_rajiv_Selenium_SeleniumDocker_book-flight-module_xml - 2019.09.20 at 12h 41m 36s.xml">
       <configuration name="/Users/singh2_rajiv/Selenium/SeleniumDocker/book-flight-module.xml" configurationId="TestNG" />
     </history-entry>
@@ -452,6 +433,15 @@
       <configuration name="/Users/singh2_rajiv/Selenium/SeleniumDocker/book-flight-module.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="_Users_singh2_rajiv_Selenium_SeleniumDocker_book-flight-module_xml - 2019.09.23 at 11h 44m 23s.xml">
+      <configuration name="/Users/singh2_rajiv/Selenium/SeleniumDocker/book-flight-module.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_singh2_rajiv_Selenium_SeleniumDocker_search-module_xml - 2019.09.23 at 12h 00m 00s.xml">
+      <configuration name="/Users/singh2_rajiv/Selenium/SeleniumDocker/search-module.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_singh2_rajiv_Selenium_SeleniumDocker_search-module_xml - 2019.09.23 at 13h 18m 59s.xml">
+      <configuration name="/Users/singh2_rajiv/Selenium/SeleniumDocker/search-module.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_singh2_rajiv_Selenium_SeleniumDocker_book-flight-module_xml - 2019.09.23 at 13h 19m 28s.xml">
       <configuration name="/Users/singh2_rajiv/Selenium/SeleniumDocker/book-flight-module.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -491,13 +481,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/com.newtours.pages/RegistrationPage.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
@@ -590,14 +573,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tests/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="39" column="68" lean-forward="true" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
+          <caret line="39" column="68" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
           <folding>
             <element signature="e#1307#1308#0" expanded="true" />
             <element signature="e#1341#1342#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-plugins.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -611,15 +613,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1065">
+          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
         </state>
       </provider>
     </entry>
