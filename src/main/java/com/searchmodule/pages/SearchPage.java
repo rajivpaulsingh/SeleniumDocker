@@ -15,7 +15,7 @@ public class SearchPage {
     private WebDriver driver;
     private WebDriverWait wait;
 
-    @FindBy(name="q")
+    @FindBy(id = "search_form_input_homepage")
     private WebElement searchTxt;
 
     @FindBy(id = "search_button_homepage")
@@ -54,5 +54,8 @@ public class SearchPage {
         System.out.println("Search Result : " + this.allVideos.size());
         return this.allVideos.size();
     }
+
+
+
 
 }
